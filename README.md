@@ -57,6 +57,9 @@ This will create the images table with the following columns:
 ` id `— The unique identitifier of the record.
 ` image_name` — The title of the image.
 ` short_description` — The description of the image.
+
+
 #Sample images
 ![](images/1.jpg)
+![](images/img360.jpg)
 
